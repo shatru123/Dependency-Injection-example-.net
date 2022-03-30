@@ -1,0 +1,46 @@
+{
+  "Users": [
+    {
+      "Name": "Shatrughna",
+      "Email": "ambhoreshatrughna@gmail.com",
+      "Address": "Pune",
+      "ContactNo": "9604466334",
+      "Id": "4c60bd7d-6769-44c5-a64f-8af4a502ee9a"
+    },
+    {
+      "Name": "Shatrughna Ambhore",
+      "Email": "shatrughna.shivaji@medtronic.com",
+      "Address": "Bangalore",
+      "ContactNo": "9130678478",
+      "Id": "095430fe-4c25-4743-a254-6405e606523c"
+    },
+    {
+      "Name": "Shatrughna Ambhore",
+      "Email": "shatrughna.shivaji@medtronic.com",
+      "Address": "Bangalore",
+      "ContactNo": "9130678478",
+      "Id": "22eb1c55-d73e-48af-8b4f-e40b5490e738"
+    },
+    {
+      "Name": "Shatrughna Ambhore",
+      "Email": "shatrughna.shivaji@medtronic.com",
+      "Address": "Bangalore KA",
+      "ContactNo": "919130678478",
+      "Id": "844338ea-a7d9-4b4e-b922-0b27fa3d0bf7"
+    },
+    {
+      "Name": "Shatrughna Ambhore",
+      "Email": "shatrughna.shivaji@medtronic.com",
+      "Address": "Bangalore KA IN",
+      "ContactNo": "9191",
+      "Id": "5ffbb462-ea2a-4b75-9182-f83ce406d272"
+    },
+    {
+      "Name": "Shatrughna S Ambhore",
+      "Email": "shatrughna.shivaji@medtronic.com",
+      "Address": "Pune",
+      "ContactNo": "919130678478",
+      "Id": "ab518b35-27fe-49a7-9bb9-b26c22638c80"
+    }
+  ]
+}
